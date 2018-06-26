@@ -1,0 +1,3 @@
+[submodule "baysick"]
+      path = baysick
+      url = git://github.com/fogus/baysick.git
