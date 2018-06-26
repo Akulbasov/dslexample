@@ -1,3 +1,7 @@
 [submodule "baysick"]
       path = baysick
       url = git://github.com/fogus/baysick.git
+
+[submodule "nifiscalaclient"]
+    path =  nifiscalaclient
+    url =   git@github.com:Akulbasov/nifiscalaclient.git
